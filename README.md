@@ -2,7 +2,7 @@
 
 # plain-dosa
 * dosabatter
-* Oil
+* Light Oil
 
 
 
