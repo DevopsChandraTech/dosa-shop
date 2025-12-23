@@ -5,7 +5,5 @@
 * Light Oil
 
 # karam-dosa
-* dosa batter
-* Light Oil
 
 
