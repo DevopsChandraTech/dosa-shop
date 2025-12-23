@@ -11,5 +11,5 @@
 
 # egg-dosa
 * dosa-batter
-* 2eggs-karam mix
-* add oil
+* 1/2 eggs-karam mix
+* 2sps oil
