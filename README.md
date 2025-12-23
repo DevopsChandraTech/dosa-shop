@@ -13,4 +13,4 @@
 * dosa-batter
 * 1/2 eggs-karam mix
 * 2sps oil
-* add onions
+* add 22onions
