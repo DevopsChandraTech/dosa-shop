@@ -14,3 +14,5 @@
 * 1/2 eggs-karam mix
 * 2sps oil
 * add 2onions
+* add 2 mirchi
+
