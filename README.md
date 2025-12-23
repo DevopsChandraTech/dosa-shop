@@ -11,4 +11,5 @@
 
 # egg-dosa
 * dosa-batter
-* egg-karam mix
+* 1egg-karam
+* 2sp oil
