@@ -21,3 +21,4 @@
 * panner
 * carrot
 * beetroot
+* alu masala
