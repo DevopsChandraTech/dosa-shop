@@ -19,3 +19,6 @@
 # panner-dosa
 * dosa-batter
 * panner
+
+# mashroom dosa
+* dosa batter
