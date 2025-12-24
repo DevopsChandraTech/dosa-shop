@@ -23,3 +23,8 @@
 # mashroom dosa
 * dosa batter
 * mashrooms
+* haldi poweder
+* red chilli
+* garam masala
+* dry fruits
+* panner
